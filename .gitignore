@@ -45,3 +45,25 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+EpochTime/App.config
+EpochTime/bin/Debug/app.publish/EpochTime.exe
+EpochTime/bin/Debug/EpochTime.exe.config
+EpochTime/bin/Debug/EpochTime.exe
+EpochTime/bin/Debug/EpochTime.application
+EpochTime/bin/Debug/EpochTime.exe.manifest
+EpochTime/bin/Debug/EpochTime.vshost.application
+EpochTime/EpochTime_1_TemporaryKey.pfx
+EpochTime/bin/Debug/EpochTime.vshost.exe.manifest
+EpochTime/bin/Debug/EpochTime.vshost.exe
+*.pdb
+EpochTime/bin/Debug/EpochTime.vshost.exe.config
+*.pfx
+EpochTime/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+*.cache
+EpochTime/obj/Debug/EpochTime.application
+EpochTime/obj/Debug/EpochTime.csproj.FileListAbsolute.txt
+EpochTime/obj/Debug/EpochTime.exe
+EpochTime/obj/Debug/EpochTime.Form1.resources
+EpochTime/obj/Debug/EpochTime.Properties.Resources.resources
+EpochTime/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+EpochTime/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
