@@ -35,7 +35,6 @@ namespace EpochTime
             {
                 DateTime centralTime = UnixTimeStampToHumanTime(unixTime, "Central Standard Time");
                 DateTime easternTime = UnixTimeStampToHumanTime(unixTime, "Eastern Standard Time");
-                DateTime mountainTime = UnixTimeStampToHumanTime(unixTime, "Mountain Standard Time");
                 DateTime pacificTime = UnixTimeStampToHumanTime(unixTime, "Pacific Standard Time");
 
                 lblTime1Output.Text = easternTime.ToString("G");
@@ -54,6 +53,11 @@ namespace EpochTime
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblTime2_Click(object sender, EventArgs e)
         {
 
         }
